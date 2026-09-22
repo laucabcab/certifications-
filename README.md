@@ -5,7 +5,7 @@ Computer Engineering Student | Cybersecurity in Training
 
 ## Completed Certifications
 
-| Introduction to Cybersecurity I & II | Accenture Foundation | [Ver PDF](./accenture-cybersecurity.pdf) |
+| Introduction to Cybersecurity I & II | Accenture Foundation | [Ver PDF](./curso_fundacion_accenture) |
 
 ## Contact
 
