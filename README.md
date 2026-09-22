@@ -11,5 +11,6 @@ Computer Engineering Student | Cybersecurity in Training
 
 - [LinkedIn](https://linkedin.com/in/laura-cabrera-658b463a0)
 - [GitHub](https://github.com/laucabcab)
-- Email: laucabreracaballero@gmail.com
 - [Professional links](https://linktr.ee/laucabcab)
+- Email: laucabreracaballero@gmail.com
+
