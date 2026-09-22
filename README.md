@@ -5,7 +5,7 @@ Computer Engineering Student | Cybersecurity in Training
 
 ## Completed Certifications
 
-| Introduction to Cybersecurity I & II | Accenture Foundation | [Ver PDF](https://raw.githubusercontent.com/laucabcab/certifications/main/curso_fundacion_accenture.pdf)
+| Introduction to Cybersecurity I & II | Accenture Foundation | [Ver PDF](https://github.com/laucabcab/certifications/blob/main/curso_fundacion_accenture.pdf)
 
 ## Contact
 
