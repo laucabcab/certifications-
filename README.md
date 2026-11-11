@@ -8,7 +8,8 @@ Computer Engineering Student | Cybersecurity in Training
 * **Introduction to Cybersecurity I & II** | Accenture Foundation | [Ver PDF](./curso_fundacion_accenture.pdf)
 
 * **IBM Bob y datahack** | IBM | *(5 partes)*
-  * Parte 1: Build Your First ChatBot | [Ver PDF](./certificado_build_your_fist_chatbot.pdf)
+  * Parte 1: [Build Your First ChatBot] | [Ver PDF](./certificado_build_your_first_chatbot.pdf)
+  * Parte 2: [Lab: AI in Sports – Prompt IBM Bob for Implementation and Design Approaches] | [Ver PDF](./certificado_lab_ai_in_sports.pdf)
 
 ## Contact
 
